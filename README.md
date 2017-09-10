@@ -20,3 +20,9 @@
 后台注意事项：
 
 以网狐荣耀版为例，在App Store审核的时候关闭第三方支付，打开IAP内购，审核通过后再打开第三方支付开关。
+
+<img src="https://github.com/serinder/paySDKDemo/blob/master/UML/WechatIMG14.jpeg" ></img>
+<img src="https://github.com/serinder/paySDKDemo/blob/master/UML/WechatIMG15.jpeg" ></img>
+<img src="https://github.com/serinder/paySDKDemo/blob/master/UML/WechatIMG16.jpeg" ></img>
+<img src="https://github.com/serinder/paySDKDemo/blob/master/UML/WechatIMG18.jpeg" ></img>
+<img src="https://github.com/serinder/paySDKDemo/blob/master/UML/WechatIMG19.jpeg" ></img>
