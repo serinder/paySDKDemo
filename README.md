@@ -26,3 +26,4 @@
 <img src="https://github.com/serinder/paySDKDemo/blob/master/UML/WechatIMG16.jpeg" ></img>
 <img src="https://github.com/serinder/paySDKDemo/blob/master/UML/WechatIMG18.jpeg" ></img>
 <img src="https://github.com/serinder/paySDKDemo/blob/master/UML/WechatIMG19.jpeg" ></img>
+微店地址：https://weidian.com/item.html?itemID=2164394489&ifr=itemdetail&wfr=c
